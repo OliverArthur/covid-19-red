@@ -15,6 +15,11 @@ folium = "*"
 matplotlib = "*"
 numpy = "*"
 sklearn = "*"
+voila = "*"
+voila-gridstack = "*"
+voila-material = "*"
+nbconvert = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.8"
