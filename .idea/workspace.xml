@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ce7b5be-95c2-4a6e-9106-deaec5a0d783" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/covid-19.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/covid-19.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
