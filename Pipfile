@@ -20,6 +20,7 @@ voila-gridstack = "*"
 voila-material = "*"
 nbconvert = "*"
 ipython = "*"
+nbinteract = "*"
 
 [requires]
 python_version = "3.8"
