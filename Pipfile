@@ -21,6 +21,7 @@ voila-material = "*"
 nbconvert = "*"
 ipython = "*"
 nbinteract = "*"
+urllib2 = "*"
 
 [requires]
 python_version = "3.8"
