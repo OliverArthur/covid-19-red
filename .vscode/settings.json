@@ -1,18 +1,16 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#63f0b4",
-    "activityBar.activeBorder": "#b96ef1",
-    "activityBar.background": "#63f0b4",
+    "activityBar.activeBackground": "#6df02f",
+    "activityBar.activeBorder": "#4d82f2",
+    "activityBar.background": "#6df02f",
     "activityBar.foreground": "#15202b",
     "activityBar.inactiveForeground": "#15202b99",
-    "activityBarBadge.background": "#b96ef1",
-    "activityBarBadge.foreground": "#15202b",
-    "statusBar.background": "#34ec9e",
-    "statusBar.border": "#34ec9e",
+    "activityBarBadge.background": "#4d82f2",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#52dc10",
+    "statusBar.border": "#52dc10",
     "statusBar.foreground": "#15202b",
-    "statusBarItem.hoverBackground": "#14d985"
+    "statusBarItem.hoverBackground": "#40ac0d"
   },
-  "peacock.color": "#34ec9e",
-  "python.pythonPath": "/Users/oliverarthur/.local/share/virtualenvs/covid-19_RD-tPzsZrqz/bin/python",
-  "python.dataScience.jupyterServerURI": "local"
+  "peacock.color": "#52dc10"
 }

@@ -3,14 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="1ce7b5be-95c2-4a6e-9106-deaec5a0d783" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nbinteract.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/covid-19.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/covid-19.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="covid-19_RD" />
@@ -80,7 +96,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,14 +104,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="covid-19.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/covid-19_RD/covid-19.html" useBuiltInWebServerPort="true">
+    <configuration name="covid-19.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/covid-19_RD/covid-19.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.covid-19.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -135,7 +146,10 @@
       <workItem from="1587601062118" duration="1499000" />
       <workItem from="1587670483579" duration="3957000" />
       <workItem from="1587867548452" duration="2674000" />
-      <workItem from="1588038118872" duration="1256000" />
+      <workItem from="1588038118872" duration="1568000" />
+      <workItem from="1588110158585" duration="1214000" />
+      <workItem from="1588111745841" duration="783000" />
+      <workItem from="1588112552111" duration="639000" />
     </task>
     <servers />
   </component>
@@ -147,26 +161,34 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="220" y="46" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1587055529456" />
+    <state x="220" y="46" key="#Other_File_Types" timestamp="1588111874683">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="220" y="46" key="#Other_File_Types/0.23.1440.877@0.23.1440.877" timestamp="1588111874683" />
+    <state x="184" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588112045367">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1588112045367" />
     <state x="408" y="188" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586986233969">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="188" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1586986233969" />
-    <state width="1384" height="196" key="GridCell.Tab.0.bottom" timestamp="1587947919238">
+    <state width="692" height="196" key="GridCell.Tab.0.bottom" timestamp="1588112716671">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1384" height="196" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587947919238" />
-    <state width="1384" height="196" key="GridCell.Tab.0.center" timestamp="1587947919237">
+    <state width="692" height="196" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588112716671" />
+    <state width="692" height="196" key="GridCell.Tab.0.center" timestamp="1588112716670">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1384" height="196" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587947919237" />
-    <state width="1384" height="196" key="GridCell.Tab.0.left" timestamp="1587947919237">
+    <state width="692" height="196" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588112716670" />
+    <state width="692" height="196" key="GridCell.Tab.0.left" timestamp="1588112716669">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1384" height="196" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587947919237" />
-    <state width="1384" height="196" key="GridCell.Tab.0.right" timestamp="1587947919238">
+    <state width="692" height="196" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588112716669" />
+    <state width="692" height="196" key="GridCell.Tab.0.right" timestamp="1588112716671">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1384" height="196" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587947919238" />
+    <state width="692" height="196" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588112716671" />
     <state width="1384" height="196" key="GridCell.Tab.1.bottom" timestamp="1587947919239">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -183,14 +205,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1384" height="196" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1587947919239" />
-    <state x="0" y="23" width="1139" height="877" key="SettingsEditor" timestamp="1587939618568">
+    <state x="-116" y="23" width="1139" height="877" key="SettingsEditor" timestamp="1588112880316">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="23" width="1139" height="877" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1587939618568" />
-    <state x="318" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1587261056167">
+    <state x="-116" y="23" width="1139" height="877" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1588112880316" />
+    <state x="318" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1588112556045">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="318" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1587261056167" />
+    <state x="318" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1588112556045" />
     <state x="0" y="23" width="1088" height="877" key="find.popup" timestamp="1587260581595">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
